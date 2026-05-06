@@ -16,7 +16,7 @@ Tek bir Trait ile aşağıdaki tüm Google yapısal veri formatlarını dinamik 
 
 ## Canlı Kullanım Örneği (Use Case)
 
-Bu eklentinin çekirdek mimarisi, promosyon ve matbaa sektöründe hizmet veren, binlerce ürüne sahip **[Bambaşkı Lazer Markalama ve Baskı Hizmetleri](https://bambaski.com.tr)** B2B e-ticaret altyapısında geliştirilmiş ve Google zengin sonuçlar görünürlüğünü otomatize etmek amacıyla canlı ortamda aktif olarak kullanılmaktadır.
+Bu eklentinin çekirdek mimarisi, promosyon ve matbaa sektöründe hizmet veren, binlerce ürüne sahip **[Bambaski.com.tr Lazer Markalama ve Baskı Hizmetleri](https://www.bambaski.com.tr)** B2B e-ticaret altyapısında geliştirilmiş ve Google zengin sonuçlar görünürlüğünü otomatize etmek amacıyla canlı ortamda aktif olarak kullanılmaktadır.
 
 ## 🛠 Kurulum
 
